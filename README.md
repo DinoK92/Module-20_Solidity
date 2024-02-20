@@ -35,6 +35,7 @@ This recap outlines the Solidity smart contract designed for creating and managi
 - After deployment, account owners can deposit funds, set account owner addresses, and withdraw funds as needed.
 
 ## Transactions, Deposits, Withdrawals and Contract Balances
+- **Contract Deployed**
 ![Contract Deployement](images/deploy_contract.png)
 
 ![](images/set_accounts_deposit.png)
