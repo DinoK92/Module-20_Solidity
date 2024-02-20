@@ -57,5 +57,5 @@ This recap outlines the Solidity smart contract designed for creating and managi
 ![](images/withdraw10_eth.png)
 
 ![](images/contract_balance5.png)
-
+- **Last to Withdraw and Last Withdraw Amount**
 ![Last to withdraw with Amount](images/lastToWithdraw_lastWithdrawAmount.png)
