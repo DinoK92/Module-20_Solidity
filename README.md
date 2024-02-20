@@ -34,4 +34,6 @@ This recap outlines the Solidity smart contract designed for creating and managi
 - The contract is intended for deployment in a local blockchain development environment, such as the JavaScript VM provided by Remix IDE.
 - After deployment, account owners can deposit funds, set account owner addresses, and withdraw funds as needed.
 
-This contract automates the management of a joint savings account, providing a secure and efficient way to handle shared financial resources.
+## Transactions, Deposits, Withdrawals and Contract Balances
+![](images/set_accounts_deposit.png)
+
